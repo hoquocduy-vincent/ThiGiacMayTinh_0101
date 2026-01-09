@@ -65,4 +65,3 @@ Trong file này, bạn sẽ học được:
 
 Hai file notebook này đóng vai trò là bước khởi đầu quan trọng giúp bạn làm quen với xử lý ảnh bằng Python – một kỹ năng cốt lõi trong AI.
 
-# ThiGiacMayTinh_01
